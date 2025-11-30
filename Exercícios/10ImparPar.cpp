@@ -3,6 +3,7 @@
 	Author: Alef Castro
 	Date: 07/10/25 11:23
 	Description: Programa que distingue Par ou impar entre 5 números
+				Se Par = soma com 2| Se Impar = divide por 3
 */
 #include <stdio.h>
 
